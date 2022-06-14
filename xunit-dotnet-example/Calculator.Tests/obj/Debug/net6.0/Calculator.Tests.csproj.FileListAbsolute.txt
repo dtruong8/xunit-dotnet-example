@@ -1,0 +1,5 @@
+C:\Users\dtruo2\source\repos\xunit-dotnet-example\xunit-dotnet-example\Calculator.Tests\obj\Debug\net6.0\Calculator.Tests.csproj.AssemblyReference.cache
+C:\Users\dtruo2\source\repos\xunit-dotnet-example\xunit-dotnet-example\Calculator.Tests\obj\Debug\net6.0\Calculator.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtruo2\source\repos\xunit-dotnet-example\xunit-dotnet-example\Calculator.Tests\obj\Debug\net6.0\Calculator.Tests.AssemblyInfoInputs.cache
+C:\Users\dtruo2\source\repos\xunit-dotnet-example\xunit-dotnet-example\Calculator.Tests\obj\Debug\net6.0\Calculator.Tests.AssemblyInfo.cs
+C:\Users\dtruo2\source\repos\xunit-dotnet-example\xunit-dotnet-example\Calculator.Tests\obj\Debug\net6.0\Calculator.Tests.csproj.CoreCompileInputs.cache
